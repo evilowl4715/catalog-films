@@ -1,0 +1,2 @@
+.movies{box-sizing:border-box;display:flex;flex-wrap:wrap;margin:0 auto;max-width:1200px;padding:100px 15px}.movie{width:33.333%}.movie,.movie__block{box-sizing:border-box;padding:15px}.movie__block{box-shadow:0 0 8px 0 rgba(34,60,80,.2);height:600px;overflow:hidden;text-align:center}.movie__summary{font-size:14px;text-align:left}.movie__year{font-weight:700;margin-bottom:20px}h3{font-size:18px}
+/*# sourceMappingURL=main.27763d83.css.map*/
